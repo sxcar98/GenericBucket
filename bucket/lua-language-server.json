@@ -4,9 +4,5 @@
     "version": "2.5.6",
     "url": "https://github.com/sumneko/lua-language-server/releases/download/2.5.6/lua-language-server-2.5.6-win32-x64.zip",
     "hash": "591896d57c243db7fd926f2736508e02edce3d3457988b03b4383201d88369ef",
-    "bin": "bin/lua-language-server.exe",
-    "shortcuts": {
-        "bin/lua-language-server.exe",
-        "lua-language-server"
-    }
+    "bin": "bin/lua-language-server.exe"
 }
