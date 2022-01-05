@@ -1,0 +1,8 @@
+{
+    "homepage": "https://github.com/tree-sitter/tree-sitter",
+    "license": "MIT License",
+    "version": "0.20.2",
+    "url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.20.2/tree-sitter-windows-x64.gz",
+    "hash": "AB7B506AF6E077D0ED1C96AA3F029DD7D79FB3264A00F0741F92E2BA543640A4",
+    "bin": "tree-sitter.exe",
+}
